@@ -9,3 +9,5 @@ regresija i klasifikacija
   - Sta je masina?
   - Sta je ucenje?
   
+
+
